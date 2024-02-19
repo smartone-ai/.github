@@ -1,4 +1,4 @@
-# ![SmartOne Logo](SmartOne_logo_white.png)
+# ![SmartOne Logo](https://raw.githubusercontent.com/smartone-ai/.github/main/profile/SmartOne_logo_white.png)
 
 [**SmartOne**](https://smartone.ai/) is at the forefront of AI innovation, specializing in data labeling and annotation services that power the next generation of AI applications.
 Since our inception in 2012, we've annotated over 1.5 billion data points, making us the go-to partner for Fortune 500 companies, startups, and leading research institutes worldwide.
